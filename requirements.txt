@@ -16,7 +16,7 @@ pdfplumber==0.10.3
 nltk==3.8.1
 regex==2023.6.3
 requests==2.31.0
-altair==5.0.1
+altair==4.2.2
 pathlib2==2.3.7.post1
 Werkzeug==2.2.3
 pipreqs==0.4.13
