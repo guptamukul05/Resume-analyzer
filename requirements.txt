@@ -10,7 +10,7 @@ Pillow==9.4.0
 cloudpickle==2.2.1
 pickleshare==0.7.5
 PyPDF2==3.0.1
-spacy==3.5.3
+spacy==2.3.5
 PyMuPDF==1.22.3
 pdfplumber==0.10.3
 nltk==3.8.1
